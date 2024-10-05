@@ -611,3 +611,22 @@ footer {
     height: auto;
   }
 }
+
+.year{
+  margin-left:40px;
+  margin-right:50px;
+
+
+}
+ol{
+  list-style-position: inside;
+}
+.year b{
+  color:#121212
+}
+li{
+  margin-left:40px;
+  padding:10px;
+  font-weight: bold;
+  color:green
+}
